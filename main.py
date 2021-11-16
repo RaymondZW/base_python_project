@@ -4,6 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import subprocess
 import sys
+import psutil
 
 
 def print_hi(name):
